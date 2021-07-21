@@ -62,6 +62,12 @@ _15. Un capacitor con aire como dielectrico tiene un espaciamiento de placas de 
 
 ![image](https://user-images.githubusercontent.com/85728185/126572289-05856d66-5d3d-4780-a50a-dd579b59dcf6.png)
 
+**10-5 Efectos no ideales**
+
+_21. Un capacitor de 25 uF tiene un coeficiente de temperatura negativo de 175 ppm/oC. .Por cuanto y en que direccion podra variar si la temperatura aumenta a 50oC? .Cual sera el nuevo valor?_
+
+![image](https://user-images.githubusercontent.com/85728185/126572827-c748c9c7-87c4-421e-8c5c-1d4b74072229.png)
+
 
 ## 3. Explicación y Resolución Ejercicios
 
