@@ -50,7 +50,7 @@ _3. La carga en un capacitor de 50 _F es de 10 × 10_3 C. .Cual es la diferencia
 
 ![image](https://user-images.githubusercontent.com/85728185/126570977-9a2e68fa-1c32-4582-8a48-ba0b0fb01c31.png)
 
-**10-2 Factores que afectan la capacitancia
+**10-2 Factores que afectan la capacitancia**
 
 _9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿cuál es el área de las placas?_
 
