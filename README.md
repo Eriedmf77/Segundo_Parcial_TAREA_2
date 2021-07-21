@@ -36,6 +36,14 @@ _9. Repita el problema 7 para el circuito de la figura 9-83._
 
 ![image](https://user-images.githubusercontent.com/85728185/126569424-47cd42e9-77eb-4b65-85dc-a12c53a0d1df.png)
 
+_15. Vea el circuito de la figura 9-89:_
+
+_a. Encuentre el circuito equivalente de Thevenin externo a las terminales que se indican._
+
+_b. Use el circuito equivalente de Thevenin para determinar la corriente a traves de las ramas que se indican._
+
+![image](https://user-images.githubusercontent.com/85728185/126569823-ae7c11b9-b284-4123-8b8b-6a7a668941bc.png)
+
 ** Capítulo 10 **
 
 ## 3. Explicación y Resolución Ejercicios
