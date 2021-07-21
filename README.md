@@ -56,6 +56,12 @@ _9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separaci
 
 ![image](https://user-images.githubusercontent.com/85728185/126571770-dc834c9e-1069-4cb6-b6d9-2ae48b6bc050.png)
 
+**10-4 Dieléctricos**
+
+_15. Un capacitor con aire como dielectrico tiene un espaciamiento de placas de 1.5 mm. .Cuanto voltaje se le puede aplicar antes de que ocurra una ruptura?_
+
+![image](https://user-images.githubusercontent.com/85728185/126572289-05856d66-5d3d-4780-a50a-dd579b59dcf6.png)
+
 
 ## 3. Explicación y Resolución Ejercicios
 
