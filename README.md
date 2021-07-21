@@ -50,6 +50,7 @@ _3. La carga en un capacitor de 50 _F es de 10 × 10_3 C. .Cual es la diferencia
 
 ![image](https://user-images.githubusercontent.com/85728185/126570977-9a2e68fa-1c32-4582-8a48-ba0b0fb01c31.png)
 
+
 ## 3. Explicación y Resolución Ejercicios
 
 **Capitulo 9**
