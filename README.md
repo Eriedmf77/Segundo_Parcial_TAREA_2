@@ -68,6 +68,18 @@ _21. Un capacitor de 25 uF tiene un coeficiente de temperatura negativo de 175 p
 
 ![image](https://user-images.githubusercontent.com/85728185/126572827-c748c9c7-87c4-421e-8c5c-1d4b74072229.png)
 
+**10-7 Capacitores en paralelo y en serie**
+
+_27. Determine CT para cada uno de los circuitos de la figura 10-33._
+
+![image](https://user-images.githubusercontent.com/85728185/126573696-e252c074-b5d3-4b18-b2ae-fe2abcf85651.png)
+
+![image](https://user-images.githubusercontent.com/85728185/126573711-0f5c7fbb-227e-4337-a4c9-fbc8660a191a.png)
+
+![image](https://user-images.githubusercontent.com/85728185/126573732-5b12fcaf-1509-4408-91ef-cdbaa64b56f5.png)
+
+![image](https://user-images.githubusercontent.com/85728185/126573741-e3e3d561-902a-4f7d-ba8a-409653044270.png)
+
 
 ## 3. Explicación y Resolución Ejercicios
 
