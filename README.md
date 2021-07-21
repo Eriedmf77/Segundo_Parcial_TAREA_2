@@ -44,7 +44,7 @@ _b. Use el circuito equivalente de Thevenin para determinar la corriente a trave
 
 ![image](https://user-images.githubusercontent.com/85728185/126569823-ae7c11b9-b284-4123-8b8b-6a7a668941bc.png)
 
-** Capítulo 10 **
+**Capitulo 10**
 
 _3. La carga en un capacitor de 50 _F es de 10 × 10_3 C. .Cual es la diferenciade potencial entre sus terminales?_
 
