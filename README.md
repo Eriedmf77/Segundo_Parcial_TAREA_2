@@ -32,7 +32,9 @@ _3. Use la superposicion para encontrar el voltaje Va y la corriente I en el cir
 
 _9. Repita el problema 7 para el circuito de la figura 9-83._
 
-![image](https://user-images.githubusercontent.com/85728185/126569316-36679bf4-ed7b-4b77-ab76-29efd68ec67e.png)
+![image](https://user-images.githubusercontent.com/85728185/126569411-85f0b565-f633-4c1c-896f-36cae14af36a.png)
+
+![image](https://user-images.githubusercontent.com/85728185/126569424-47cd42e9-77eb-4b65-85dc-a12c53a0d1df.png)
 
 ** Capítulo 10 **
 
