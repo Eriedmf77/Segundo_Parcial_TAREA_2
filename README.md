@@ -26,10 +26,11 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 _3. Use la superposicion para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77._
 
-![image](https://user-images.githubusercontent.com/85728185/126568328-81ca182e-4060-45da-8be8-029c549ed198.png)
+![image](https://user-images.githubusercontent.com/85728185/126568391-229c5153-ad98-4f73-bf50-34d53fd996b6.png)
 
+![image](https://user-images.githubusercontent.com/85728185/126568409-bfeee2af-e2e1-467a-abeb-e5d0783479b1.png)
 
-**Capítulo 10**
+** Capítulo 10 **
 
 ## 3. Explicación y Resolución Ejercicios
 
