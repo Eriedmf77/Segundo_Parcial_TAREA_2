@@ -79,11 +79,19 @@ _b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuand
 ![image](https://user-images.githubusercontent.com/84418933/126656839-8ecdaca5-27f1-495a-858d-264ed2b81d6f.png)
 ![image](https://user-images.githubusercontent.com/84418933/126656865-824858fd-2ccb-445b-8096-60a336b88fc4.png)
 
+_21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95._
+
+![image](https://user-images.githubusercontent.com/85728185/126662354-e0933c30-c5ab-4cd0-ba72-13a369a921d6.png)
+
 _25. Encuentre el circuito equivalente de Norton externo a R, en el circuito de la figura 9-81. Use el circuito equivalente para encontrar para el circuito._
 
 ![image](https://user-images.githubusercontent.com/84418933/126657382-5eafa4d5-3e2d-4d52-b6b0-5e3e20a12bd5.png)
 ![image](https://user-images.githubusercontent.com/84418933/126657394-de4d97ba-2da7-4793-ba22-bb92d970282a.png)
 ![image](https://user-images.githubusercontent.com/84418933/126657464-b269d4fe-baa2-4a48-86af-b994b7859483.png)
+
+_27. Repita el problema 25 para el circuito de la figura 9-83._
+
+![image](https://user-images.githubusercontent.com/85728185/126662447-b4370049-6696-4d0f-a4df-2b06c700435b.png)
 
 _31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87._
 
@@ -195,12 +203,10 @@ _49. Para cada caso mostrado en la figura 10-44. ¿cuál es la falla más probab
 
 **Capítulo 9**
 
-https://youtu.be/glESi5TXsWE
 
 
 **Capítulo 10**
 
-https://youtu.be/itP2cNNskdk
 
 
 ## 5.Conclusiones
