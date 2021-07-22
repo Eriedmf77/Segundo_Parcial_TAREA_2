@@ -79,6 +79,26 @@ _b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuand
 ![image](https://user-images.githubusercontent.com/84418933/126656839-8ecdaca5-27f1-495a-858d-264ed2b81d6f.png)
 ![image](https://user-images.githubusercontent.com/84418933/126656865-824858fd-2ccb-445b-8096-60a336b88fc4.png)
 
+_25. Encuentre el circuito equivalente de Norton externo a R, en el circuito de la figura 9-81. Use el circuito equivalente para encontrar para el circuito._
+
+![image](https://user-images.githubusercontent.com/84418933/126657382-5eafa4d5-3e2d-4d52-b6b0-5e3e20a12bd5.png)
+![image](https://user-images.githubusercontent.com/84418933/126657394-de4d97ba-2da7-4793-ba22-bb92d970282a.png)
+![image](https://user-images.githubusercontent.com/84418933/126657464-b269d4fe-baa2-4a48-86af-b994b7859483.png)
+
+_31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87._
+
+![image](https://user-images.githubusercontent.com/84418933/126657543-4a8abf23-f010-4a2c-a4a5-c4fb54a4d15e.png)
+![image](https://user-images.githubusercontent.com/84418933/126657557-4e53006f-62e7-4164-9c4e-f3afdd4099cb.png)
+![image](https://user-images.githubusercontent.com/84418933/126657592-941f9039-e207-4986-a26a-4b026fa6e3b0.png)
+
+_37. a. Para el circuito de la figura 9-91 determine el valor de Rz para que se suministre la máxima potencia a la carga._ 
+
+_b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga._
+
+![image](https://user-images.githubusercontent.com/84418933/126657705-a851743c-0df0-4321-a0fa-eba8c36a421d.png)
+![image](https://user-images.githubusercontent.com/84418933/126657727-2412a84c-5b19-4e07-9662-a4e3398780a9.png)
+![image](https://user-images.githubusercontent.com/84418933/126657760-cede9e82-94d7-4f1c-83bb-333926865e11.png)
+
 
 
 **Capitulo 10**
