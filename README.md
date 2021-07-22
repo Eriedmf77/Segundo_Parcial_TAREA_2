@@ -168,6 +168,12 @@ _b. Calcule el valor de la máxima potencia que puede ser suministrada a la carg
 ![image](https://user-images.githubusercontent.com/84418933/126657727-2412a84c-5b19-4e07-9662-a4e3398780a9.png)
 ![image](https://user-images.githubusercontent.com/84418933/126657760-cede9e82-94d7-4f1c-83bb-333926865e11.png)
 
+_39. a. Para el circuito de la figura 9-99._
+
+![image](https://user-images.githubusercontent.com/85728185/126666772-ca8c0609-76f2-4813-9a3b-c71233767b0b.png)
+
+![image](https://user-images.githubusercontent.com/85728185/126666819-33e42d4b-8360-46f5-8771-bebf9117a15e.png)
+
 _43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 1, determine la magnitud y polaridad de la fuente de voltaje resultante._
 
 ![image](https://user-images.githubusercontent.com/84418933/126658254-f7aae053-27dd-447a-8276-e62b81a91a43.png)
