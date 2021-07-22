@@ -158,6 +158,10 @@ _21. Un capacitor de 25 uF tiene un coeficiente de temperatura negativo de 175 p
 
 **10-7 Capacitores en paralelo y en serie**
 
+_25. Repita el problema 23 si los capacitores están conectados en serie. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 uF conectados en paralelo?_
+
+![image](https://user-images.githubusercontent.com/84418933/126660992-fd8e13a1-367f-4d4e-a2e8-5391f979379b.png)
+
 _27. Determine CT para cada uno de los circuitos de la figura 10-33._
 
 ![image](https://user-images.githubusercontent.com/85728185/126573696-e252c074-b5d3-4b18-b2ae-fe2abcf85651.png)
@@ -167,6 +171,23 @@ _27. Determine CT para cada uno de los circuitos de la figura 10-33._
 ![image](https://user-images.githubusercontent.com/85728185/126573732-5b12fcaf-1509-4408-91ef-cdbaa64b56f5.png)
 
 ![image](https://user-images.githubusercontent.com/85728185/126573741-e3e3d561-902a-4f7d-ba8a-409653044270.png)
+
+_31. Para la figura 10-36, determine C3 y Ca._
+
+![image](https://user-images.githubusercontent.com/84418933/126661035-7f895127-a527-4d25-8735-c5f7afde8374.png)
+![image](https://user-images.githubusercontent.com/84418933/126661079-54afbfd6-1443-4087-9a05-b7a071fbe95f.png)
+
+_37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b._
+
+![image](https://user-images.githubusercontent.com/84418933/126661145-f5f3182e-883e-482b-b9de-d1f9e89b65af.png)
+
+![image](https://user-images.githubusercontent.com/84418933/126661177-4bd51d31-0876-44fd-93b6-f54f16c638df.png)
+
+_49. Para cada caso mostrado en la figura 10-44. ¿cuál es la falla más probable?_
+
+![image](https://user-images.githubusercontent.com/84418933/126661235-b7087f2b-3cdc-479b-a255-56dce2328a3a.png)
+![image](https://user-images.githubusercontent.com/84418933/126661272-0980d117-f85f-4af3-9264-87886e257bf1.png)
+
 
 
 
