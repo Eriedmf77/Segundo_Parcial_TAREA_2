@@ -270,11 +270,11 @@ _49. Para cada caso mostrado en la figura 10-44. ¿cuál es la falla más probab
 
 **Capítulo 9**
 
-
+https://youtu.be/glESi5TXsWE
 
 **Capítulo 10**
 
-
+https://youtu.be/itP2cNNskdk
 
 ## 5.Conclusiones
 
