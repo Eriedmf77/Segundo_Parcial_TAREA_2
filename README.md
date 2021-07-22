@@ -99,6 +99,17 @@ _b. Calcule el valor de la máxima potencia que puede ser suministrada a la carg
 ![image](https://user-images.githubusercontent.com/84418933/126657727-2412a84c-5b19-4e07-9662-a4e3398780a9.png)
 ![image](https://user-images.githubusercontent.com/84418933/126657760-cede9e82-94d7-4f1c-83bb-333926865e11.png)
 
+_43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 1, determine la magnitud y polaridad de la fuente de voltaje resultante._
+
+![image](https://user-images.githubusercontent.com/84418933/126658254-f7aae053-27dd-447a-8276-e62b81a91a43.png)
+![image](https://user-images.githubusercontent.com/84418933/126658300-16af1a8e-567f-49db-8706-98456429a03d.png)
+
+_49. a. Determine la corriente 1 en el circuito de la figura 9-107._
+
+_b. Demuestre que la reciprocidad se aplica en el circuito dado._
+
+![image](https://user-images.githubusercontent.com/84418933/126658375-9d816337-2646-44a1-8fce-3433a5117327.png)
+![image](https://user-images.githubusercontent.com/84418933/126658413-f9adfb7d-eb07-40dd-8f87-7e49de5dee82.png)
 
 
 **Capitulo 10**
