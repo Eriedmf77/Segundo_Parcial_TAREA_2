@@ -29,6 +29,11 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 **Capitulo 9**
 
+_1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores._
+
+![image](https://user-images.githubusercontent.com/84418933/126655593-444a01c3-8855-4215-b0cb-0931efcd1160.png)
+![image](https://user-images.githubusercontent.com/84418933/126655640-c7f7f19f-eec0-4bc3-b0d8-384dc0517dbb.png)
+
 _3. Use la superposicion para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77._
 
 ![image](https://user-images.githubusercontent.com/85728185/126568391-229c5153-ad98-4f73-bf50-34d53fd996b6.png)
