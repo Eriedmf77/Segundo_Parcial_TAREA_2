@@ -69,6 +69,18 @@ _b. Use el circuito equivalente de Thevenin para determinar la corriente a trave
 
 ![image](https://user-images.githubusercontent.com/85728185/126569823-ae7c11b9-b284-4123-8b8b-6a7a668941bc.png)
 
+_19. Repita el problema 17 para el circuito de la figura 9-93._
+
+_a. Encuentre el circuito equivalente de Thévenin externo a Rp._ 
+
+_b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL = 0, 10 kl y 50 kO._
+
+![image](https://user-images.githubusercontent.com/84418933/126656779-a87cb225-c2b3-46b7-8b39-47cc2783004e.png)
+![image](https://user-images.githubusercontent.com/84418933/126656839-8ecdaca5-27f1-495a-858d-264ed2b81d6f.png)
+![image](https://user-images.githubusercontent.com/84418933/126656865-824858fd-2ccb-445b-8096-60a336b88fc4.png)
+
+
+
 **Capitulo 10**
 
 _3. La carga en un capacitor de 50 _F es de 10 × 10_3 C. .Cual es la diferenciade potencial entre sus terminales?_
