@@ -40,11 +40,26 @@ _3. Use la superposicion para encontrar el voltaje Va y la corriente I en el cir
 
 ![image](https://user-images.githubusercontent.com/85728185/126568409-bfeee2af-e2e1-467a-abeb-e5d0783479b1.png)
 
+_7. Encuentre el equivalente de Thévenin externo a R, en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab_
+
+![image](https://user-images.githubusercontent.com/84418933/126656061-663a4228-fffc-4a1e-914b-9e61c60fbdee.png)
+![image](https://user-images.githubusercontent.com/84418933/126656082-2282573f-e9be-4ec1-b57c-142d3d86c8b7.png)
+
 _9. Repita el problema 7 para el circuito de la figura 9-83._
 
 ![image](https://user-images.githubusercontent.com/85728185/126569411-85f0b565-f633-4c1c-896f-36cae14af36a.png)
 
 ![image](https://user-images.githubusercontent.com/85728185/126569424-47cd42e9-77eb-4b65-85dc-a12c53a0d1df.png)
+
+_13. Vea el circuito de la figura 9-87:_ 
+
+_a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas._ 
+
+_b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas._
+
+![image](https://user-images.githubusercontent.com/84418933/126656228-abd00eef-8e9c-4669-86e0-392a5b8b3869.png)
+![image](https://user-images.githubusercontent.com/84418933/126656304-9314f5bc-e6fd-4f4e-b91e-baead90939be.png)
+
 
 _15. Vea el circuito de la figura 9-89:_
 
