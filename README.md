@@ -156,6 +156,10 @@ _31. a. Encuentre el circuito equivalente de Norton externo a las terminales que
 ![image](https://user-images.githubusercontent.com/84418933/126657557-4e53006f-62e7-4164-9c4e-f3afdd4099cb.png)
 ![image](https://user-images.githubusercontent.com/84418933/126657592-941f9039-e207-4986-a26a-4b026fa6e3b0.png)
 
+_33. Repita el problema 31 para el circuito de la figura 9-91._
+
+![image](https://user-images.githubusercontent.com/85728185/126664991-ffa7c899-3768-4fa7-ae02-52163d9fc5ad.png)
+
 _37. a. Para el circuito de la figura 9-91 determine el valor de Rz para que se suministre la máxima potencia a la carga._ 
 
 _b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga._
