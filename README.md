@@ -114,11 +114,22 @@ _b. Demuestre que la reciprocidad se aplica en el circuito dado._
 
 **Capitulo 10**
 
+_1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:_
+
+![image](https://user-images.githubusercontent.com/84418933/126659535-bf615cc0-2272-4d19-9a82-3fb1ca7a9e97.png)
+![image](https://user-images.githubusercontent.com/84418933/126659552-8fa83319-3bfd-4eb7-8fcd-c9a5c0ac90e3.png)
+![image](https://user-images.githubusercontent.com/84418933/126659595-7148e04b-1eea-4d75-b788-e7b18f778ce6.png)
+![image](https://user-images.githubusercontent.com/84418933/126659637-448eb79f-e833-4f9e-bf27-be3f40e6e430.png)
+
 _3. La carga en un capacitor de 50 _F es de 10 × 10_3 C. .Cual es la diferenciade potencial entre sus terminales?_
 
 ![image](https://user-images.githubusercontent.com/85728185/126570977-9a2e68fa-1c32-4582-8a48-ba0b0fb01c31.png)
 
 **10-2 Factores que afectan la capacitancia**
+
+_7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm X 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?_
+
+![image](https://user-images.githubusercontent.com/84418933/126659742-f03b7c3b-dd48-4214-8483-d1278fc7adbe.png)
 
 _9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿cuál es el área de las placas?_
 
@@ -126,11 +137,20 @@ _9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separaci
 
 **10-4 Dieléctricos**
 
+_13. a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite? b. ¿Cuál es al doble de la distancia?_
+
+![image](https://user-images.githubusercontent.com/84418933/126659838-8e182604-83ce-40fe-be37-62ef5389b8c6.png)
+
 _15. Un capacitor con aire como dielectrico tiene un espaciamiento de placas de 1.5 mm. .Cuanto voltaje se le puede aplicar antes de que ocurra una ruptura?_
 
 ![image](https://user-images.githubusercontent.com/85728185/126572289-05856d66-5d3d-4780-a50a-dd579b59dcf6.png)
 
 **10-5 Efectos no ideales**
+
+_19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?_
+
+![image](https://user-images.githubusercontent.com/84418933/126659936-9535b100-b35e-42f5-ada5-b41a79474599.png)
+![image](https://user-images.githubusercontent.com/84418933/126659965-72b6245a-70d2-4ebd-a462-2941d4973e3f.png)
 
 _21. Un capacitor de 25 uF tiene un coeficiente de temperatura negativo de 175 ppm/oC. .Por cuanto y en que direccion podra variar si la temperatura aumenta a 50oC? .Cual sera el nuevo valor?_
 
@@ -148,7 +168,7 @@ _27. Determine CT para cada uno de los circuitos de la figura 10-33._
 
 ![image](https://user-images.githubusercontent.com/85728185/126573741-e3e3d561-902a-4f7d-ba8a-409653044270.png)
 
-**Capitulo 10**
+
 
 ## 4.Video
 
