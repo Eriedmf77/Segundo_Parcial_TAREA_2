@@ -284,3 +284,8 @@ https://youtu.be/itP2cNNskdk
 ## 5.Conclusiones
 
 ## 6.Bibliografía 
+
+_Carlos G, J. (2021, 17 junio). ▷ 【 ¿Qué es la Capacitancia? 】 ⚡ Formula y Unidad de medida. Capacitores.Net. https://capacitores.net/que-es-la-capacitancia/._
+
+_Miguel, L. (2021, 23 enero). El Teorema de Norton - Explicado paso a paso. Mi Universo Electrónico. https://miuniversoelectronico.com/el-teorema-de-norton/._
+
