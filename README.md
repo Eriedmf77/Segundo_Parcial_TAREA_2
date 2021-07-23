@@ -283,6 +283,8 @@ https://youtu.be/itP2cNNskdk
 
 ## 5.Conclusiones
 
+_Pudimos observar el como resolver los circuitos por diferentes metodos de analisis, y el como se aplica la conductancia._
+
 ## 6.Bibliografía 
 
 _Carlos G, J. (2021, 17 junio). ▷ 【 ¿Qué es la Capacitancia? 】 ⚡ Formula y Unidad de medida. Capacitores.Net. https://capacitores.net/que-es-la-capacitancia/._
