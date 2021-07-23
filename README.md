@@ -287,5 +287,5 @@ https://youtu.be/itP2cNNskdk
 
 _Carlos G, J. (2021, 17 junio). ▷ 【 ¿Qué es la Capacitancia? 】 ⚡ Formula y Unidad de medida. Capacitores.Net. https://capacitores.net/que-es-la-capacitancia/._
 
-_Miguel, L. (2021, 23 enero). El Teorema de Norton - Explicado paso a paso. Mi Universo Electrónico. https://miuniversoelectronico.com/el-teorema-de-norton/._
+_Antonio José Salazar Gómez – Universidad de los Andes. (2020). THÉVENIN, NORTON Y MÁXIMA TRANSFERENCIA DE POTENCIA (N.o 25). http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/06_Thevenin_Norton_Maxima_Transferencia_de_Potencia.pdf._
 
