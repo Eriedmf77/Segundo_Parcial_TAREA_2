@@ -285,6 +285,10 @@ https://youtu.be/itP2cNNskdk
 
 _Pudimos observar el como resolver los circuitos por diferentes metodos de analisis, y el como se aplica la conductancia._
 
+_El teorema de Thevenin permite que cualquier circuito serie paralelo complejo con dos fuentes de energia se simplifique en una forma equivalente que consta de una fuente de voltaje equivalente y una resistencia equivalente en serie. El teorema de superposición nos ayuda para circuitos de fuentes múltiples._
+
+_Cuando la resistencia de la carga es igual a la resistencia interna de la fuente de alimentación, la potencia máxima se transfiere de la fuente de alimentación a la carga._
+
 ## 6.Bibliografía 
 
 _Carlos G, J. (2021, 17 junio). ▷ 【 ¿Qué es la Capacitancia? 】 ⚡ Formula y Unidad de medida. Capacitores.Net. https://capacitores.net/que-es-la-capacitancia/._
